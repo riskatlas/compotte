@@ -1,0 +1,8 @@
+*.pyc
+.metadata/
+.project
+.pydevproject
+.settings/
+Makefile
+help/
+iso19139jw.xsl
